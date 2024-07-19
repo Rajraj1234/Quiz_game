@@ -50,3 +50,4 @@ if z>=35:
 
 else:
     print("You have not passed this quiz!!! \n try again")
+    print("jhjrnf")
